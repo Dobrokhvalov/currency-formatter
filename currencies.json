@@ -1,4 +1,13 @@
 {
+  "ETH": {
+    "code": "ETH",
+    "symbol": "Ξ",
+    "thousandsSeparator": ",",
+    "decimalSeparator": ".",
+    "symbolOnLeft": true,
+    "spaceBetweenAmountAndSymbol": true,
+    "decimalDigits": 2
+  },    
   "AED": {
     "code": "AED",
     "symbol": "د.إ.‏",
