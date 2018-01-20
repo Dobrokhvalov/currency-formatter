@@ -7,10 +7,19 @@
     "symbolOnLeft": true,
     "spaceBetweenAmountAndSymbol": true,
     "decimalDigits": 2
+  },
+  "BTC": {
+    "code": "BTC",
+    "symbol": "Ƀ",
+    "thousandsSeparator": ",",
+    "decimalSeparator": ".",
+    "symbolOnLeft": false,
+    "spaceBetweenAmountAndSymbol": false,
+    "decimalDigits": 2
   },    
   "AED": {
     "code": "AED",
-    "symbol": "د.إ.‏",
+    "symbol": "AED",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -19,7 +28,7 @@
   },
   "AFN": {
     "code": "AFN",
-    "symbol": "؋",
+    "symbol": "AFN",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -37,7 +46,7 @@
   },
   "AMD": {
     "code": "AMD",
-    "symbol": "֏",
+    "symbol": "AMD",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": false,
@@ -136,7 +145,7 @@
   },
   "BHD": {
     "code": "BHD",
-    "symbol": "د.ب.‏",
+    "symbol": "BHD",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -194,15 +203,6 @@
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
-    "spaceBetweenAmountAndSymbol": false,
-    "decimalDigits": 2
-  },
-  "BTC": {
-    "code": "BTC",
-    "symbol": "Ƀ",
-    "thousandsSeparator": ",",
-    "decimalSeparator": ".",
-    "symbolOnLeft": false,
     "spaceBetweenAmountAndSymbol": false,
     "decimalDigits": 2
   },
@@ -370,7 +370,7 @@
   },
   "DZD": {
     "code": "DZD",
-    "symbol": "د.ج.‏",
+      "symbol": "DZD",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -379,7 +379,7 @@
   },
   "EGP": {
     "code": "EGP",
-    "symbol": "ج.م.‏",
+    "symbol": "EGP",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -577,8 +577,8 @@
   },
   "IQD": {
     "code": "IQD",
-    "symbol": "د.ع.‏",
-    "thousandsSeparator": ",",
+      "symbol": "IQD",
+      "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
     "spaceBetweenAmountAndSymbol": true,
@@ -613,7 +613,7 @@
   },
   "JOD": {
     "code": "JOD",
-    "symbol": "د.ا.‏",
+      "symbol": "JOD",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -685,7 +685,7 @@
   },
   "KWD": {
     "code": "KWD",
-    "symbol": "د.ك.‏",
+      "symbol": "KWD",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -721,7 +721,7 @@
   },
   "LBP": {
     "code": "LBP",
-    "symbol": "ل.ل.‏",
+    "symbol": "LBP",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -757,7 +757,7 @@
   },
   "LYD": {
     "code": "LYD",
-    "symbol": "د.ل.‏",
+    "symbol": "LYD",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
@@ -1234,7 +1234,7 @@
   },
   "TND": {
     "code": "TND",
-    "symbol": "د.ت.‏",
+    "symbol":"TND",
     "thousandsSeparator": ",",
     "decimalSeparator": ".",
     "symbolOnLeft": true,
